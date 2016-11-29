@@ -1,4 +1,4 @@
- var quest = {
+var quest = {
 
 findMinMax: function(arr) {
 var max = 0;
